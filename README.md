@@ -1,4 +1,4 @@
-**MLops Assignment2 , RN-G25AIT2131**
+**MLOps Assignment2 , RN-G25AIT2131**
 
 This assignment will demonstrate how users can train and fine-tune a BERT model for classification with the popular HuggingFace transformers Python library.
 We will fine-tune a BERT model on Goodreads reviews from the UCSD Book Graph with the goal of predicting the genre of the book being reviewed
