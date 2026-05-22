@@ -9,10 +9,14 @@ The selected model was DistilBERT, a lightweight transformer architecture optimi
 The assignment also incorporated modern MLOps practices such as secure secret management, experiment logging, and cloud-based GPU training.
 
 **Result**
-SN	Metric	  Score
-1	  Accuracy	0.61875
-2	  F1 Score  0.61643
-3	  Eval Loss	2.29844
+
+SN - Metric - Score
+
+1	 - Accuracy - 0.61875
+
+2	 - F1 Score - 0.61643
+
+3	 - Eval Loss -2.29844
 
 **Training paltform Links**
 
